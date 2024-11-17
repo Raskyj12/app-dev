@@ -1,2 +1,8 @@
 # app-dev
 My first repository
+# MY FAVORITE MOVIE
+## ACTION/ROMANCE
+
+***FROM NETFLIX***
+1. ALITA: BATTLE ANGEL
+2. AFTER
